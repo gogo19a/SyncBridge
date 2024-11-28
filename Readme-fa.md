@@ -28,7 +28,7 @@
 ### گام 1: کلون کردن مخزن
 ```bash
 git clone https://github.com/gogo19a/SyncBridge.git
-cd python-file-sync-tool
+cd SyncBridge
 ```
 
 ### گام 2: نصب وابستگی‌ها
