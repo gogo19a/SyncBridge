@@ -27,7 +27,7 @@ A simple yet powerful file synchronization tool for developers to transfer files
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/<your-username>/python-file-sync-tool.git
+git clone https://github.com/gogo19a/SyncBridge.git
 cd python-file-sync-tool
 ```
 
@@ -96,12 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Credits
-This tool was developed with support from **[ChatGPT](https://openai.com/chatgpt/)**. Special thanks to OpenAI for assistance in design and development.
-
----
-
 ## Contact
 For questions, suggestions, or issues, feel free to contact me via:
-- **GitHub Issues**: [Open an Issue](https://github.com/<your-username>/python-file-sync-tool/issues)
+- **GitHub Issues**: [Open an Issue](https://github.com/gogo19a/SyncBridge/issues)
 - **Email**: gogo19a@gmail.com
