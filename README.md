@@ -28,7 +28,7 @@ A simple yet powerful file synchronization tool for developers to transfer files
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/gogo19a/SyncBridge.git
-cd python-file-sync-tool
+cd SyncBridge
 ```
 
 ### Step 2: Install dependencies
